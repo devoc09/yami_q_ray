@@ -12,7 +12,7 @@ Plug 'devoc09/yami_q_ray'
 ```
 
 ## Todo
-- [] support 256-colors
+- [ ] support 256-colors
 
 ## Thanks
 I love [Macross series](https://en.wikipedia.org/wiki/Macross)✈️ 
