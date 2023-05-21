@@ -1,8 +1,19 @@
 " Vim color file
+"
+" Author: devoc09
+" https://github.com/devoc09/yami_q_ray
+"
+" This colorscheme inspired by Yami_Q_ray.
 
 
 hi clear
 
+if version >580
+  hi clear
+  if exists("syntax_on")
+    syntax reset
+  endif
+endif
 let g:colors_name="yami_q_ray"
 
 hi Boolean         guifg=#c396d0
