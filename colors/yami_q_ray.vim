@@ -108,6 +108,9 @@ hi LineNr          guifg=#465457 guibg=#232526
 hi NonText         guifg=#465457
 hi SpecialKey      guifg=#465457
 
+
+
+" treesitter
 if has('nvim-0.8')
   highlight @variable            guifg=#fdf0dd
   highlight @field               guifg=#fdf0dd
