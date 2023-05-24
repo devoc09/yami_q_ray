@@ -112,8 +112,8 @@ hi SpecialKey      guifg=#465457
 if has('nvim-0.8')
   highlight @variable            guifg=#fdf0dd
   highlight @field               guifg=#fdf0dd
-  highlight @property            guifg=#e7f485
-  highlight @punctuation.bracket guifg=#7E8E91
+  highlight @property            guifg=#fdf0dd
+  highlight @punctuation.bracket guifg=#fdf0dd
   highlight @punctuation.special guifg=#81d09c
   highlight @constructor         guifg=#c396d0
 endif
