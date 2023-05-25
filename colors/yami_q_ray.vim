@@ -74,7 +74,7 @@ if has("spell")
     hi SpellBad    guisp=#FF0000 gui=undercurl
     hi SpellCap    guisp=#7070F0 gui=undercurl
     hi SpellLocal  guisp=#70F0F0 gui=undercurl
-    hi SpellRare   guisp=#FFFFFF gui=undercurl
+    hi SpellRare   guisp=#fdf0dd gui=undercurl
 endif
 hi Statement       guifg=#ca4456               gui=bold
 hi StatusLine      guifg=#455354 guibg=fg
@@ -83,7 +83,7 @@ hi StorageClass    guifg=#ef5939               gui=none
 hi Structure       guifg=#4fbdc8
 hi Tag             guifg=#ca4456               gui=none
 hi Title           guifg=#ef5939
-hi Todo            guifg=#FFFFFF guibg=bg      gui=bold
+hi Todo            guifg=#fdf0dd guibg=bg      gui=bold
 
 hi Typedef         guifg=#4fbdc8
 hi Type            guifg=#4fbdc8               gui=none
@@ -92,13 +92,13 @@ hi Underlined      guifg=#808080               gui=underline
 hi VertSplit       guifg=#808080 guibg=#080808 gui=bold
 hi VisualNOS                     guibg=#403D3D
 hi Visual                        guibg=#403D3D
-hi WarningMsg      guifg=#FFFFFF guibg=#333333 gui=bold
+hi WarningMsg      guifg=#fdf0dd guibg=#333333 gui=bold
 hi WildMenu        guifg=#4fbdc8 guibg=#000000
 
 hi TabLineFill     guifg=#11191b guibg=#11191b
 hi TabLine         guibg=#11191b guifg=#808080 gui=none
 
-hi Normal          guifg=#F8F8F2 guibg=#11191b
+hi Normal          guifg=#fdf0dd guibg=#11191b
 hi Comment         guifg=#7E8E91
 hi CursorLine                    guibg=#293739
 hi CursorLineNr    guifg=#ef5939               gui=none
