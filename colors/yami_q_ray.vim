@@ -101,10 +101,10 @@ hi TabLine         guibg=#11191b guifg=#808080 gui=none
 hi Normal          guifg=#fdf0dd guibg=#11191b
 hi Comment         guifg=#7E8E91
 hi CursorLine                    guibg=#293739
-hi CursorLineNr    guifg=#ef5939               gui=none
+hi CursorLineNr    guifg=#ef5939 guibg=#11191b
 hi CursorColumn                  guibg=#293739
 hi ColorColumn                   guibg=#232526
-hi LineNr          guifg=#465457 guibg=#232526
+hi LineNr          guifg=#e7f485 guibg=#11191b
 hi NonText         guifg=#465457
 hi SpecialKey      guifg=#465457
 
